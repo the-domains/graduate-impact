@@ -1,0 +1,28 @@
+name: Graduate Impact
+favicon: null
+layout_spectrum: 0.3030437151901424
+typography_spectrum: 0.8357343717943877
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.1848611356690526
+  lightness: 0.2598705084528774
+  saturation: 0.27578282775357366
+  rhythmicContrast: 0.2423625912051648
+purpose: []
